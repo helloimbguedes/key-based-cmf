@@ -1,0 +1,12 @@
+{
+  "name": "key-based-cmf",
+  "version": "1.0.0",
+  "description": "This project aims to allow a key based content search for internal content access in react applications",
+  "main": "index.js",
+  "repository": "https://github.com/helloimbguedes/key-based-cmf.git",
+  "author": "helloimbguedes <brunoguedesdev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
